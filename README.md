@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a comprehensive guide to building a real-time chat application using the MERN stack (MongoDB, Express.js, React, and Node.js) along with ZEGOCLOUD WebRTC API for real-time audio and video calls.
+This project is a real-time chat application using the MERN stack (MongoDB, Express.js, React, and Node.js) along with ZEGOCLOUD WebRTC API for real-time audio and video calls.
 
 ## Project Features
 
@@ -49,14 +49,14 @@ This project utilizes a robust tech stack to deliver a powerful and scalable cha
 
 ## Deployment Stack
 
-The application is deployed on AWS infrastructure for scalability and reliability:
+The application will deploy on AWS infrastructure for scalability and reliability:
 
 - AWS EC2: Elastic Compute Cloud service for hosting the application servers
 - AWS S3: Simple Storage Service for storing application files and user data
 
 ## Learning Outcomes
 
-By completing this project, you will gain valuable experience in:
+By completing this project, will gain valuable experience in:
 
 - Advanced React Best Practices: Learn effective folder and file structure for React projects.
 - Advanced State Management: Master state management techniques using React Context API.
@@ -65,7 +65,7 @@ By completing this project, you will gain valuable experience in:
 
 ## Contributing
 
-If you are interested in contributing to this project, please feel free to reach out to me via my GitHub profile: https://github.com/skpandey885
+If you are interested in contributing to this project, please feel free to reach out to me via my GitHub profile: https://github.com/sachingurh
 
 ## License
 
