@@ -9,6 +9,7 @@
     },
     "author": "Sachin Pandey",
     "license": "ISC",
+  "repository":"https://github.com/sachinpandeygurh/mernStackChatApp/tree/main/frontend",
     "dependencies": {
       "@sendgrid/mail": "^7.7.0",
       "bcryptjs": "^2.4.3",
